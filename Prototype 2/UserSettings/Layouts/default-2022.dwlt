@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 10}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -125,7 +125,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 0
-  controlID: 18
+  controlID: 54
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -202,7 +202,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 150}
   m_MaxSize: {x: 24288, y: 24288}
   vertical: 0
-  controlID: 16
+  controlID: 133
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -326,7 +326,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 150}
   m_MaxSize: {x: 16192, y: 24288}
   vertical: 1
-  controlID: 17
+  controlID: 53
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -519,10 +519,10 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 60}
+    scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 6a610000
     m_LastClickedID: 24938
-    m_ExpandedIDs: 000000004a6100004c61000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000004a61000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -690,8 +690,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: c0590000
-      m_LastClickedID: 22976
+      m_SelectedIDs: 34160000
+      m_LastClickedID: 0
       m_ExpandedIDs: 30fbffffcc590000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -754,7 +754,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 0, y: 0}
+      snapOffset: {x: 0, y: 25}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: Tool Settings
@@ -1161,7 +1161,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.38882312, y: -0.046952102, z: 0.019858101, w: 0.91991717}
     speed: 2
-    m_Value: {x: 0.38878712, y: -0.048331205, z: 0.020441009, w: 0.919832}
+    m_Value: {x: 0.38881734, y: -0.046951402, z: 0.019857805, w: 0.91990346}
   m_Size:
     m_Target: 0.7281317
     speed: 2
